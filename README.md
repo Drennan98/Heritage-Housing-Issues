@@ -1,5 +1,6 @@
 # Dataset content
 
+- The dataset was found on Kaggle. 
 
 # Business requirements
 
