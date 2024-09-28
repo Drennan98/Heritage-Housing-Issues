@@ -1,14 +1,30 @@
-# Dataset content
+
+
+# Dataset content
+
 
 - The dataset was found on Kaggle. 
+
+
 
 # Business requirements
 
 
-# Hypothesis and how to validate
+
+# Hypothesis and how to validate
 
 
-# Rationale to map the business requirements to the data visualizations and Machine Learning tasks
+In Machine Learning, a hypothesis refers to a model or function that you assume can predict the output from the given input data. It represents your best guess about how the input features relate to the target variable. 
+
+ - Hypothesis 1 - Houses with 4 bedrooms appear to reach the highest prices, with one exceeding $700,000.  
+
+ - Hypothesis 2 -
+
+ - Hypothesis 3 - 
+
+
+
+# Rationale to map the business requirements to the data visualizations and Machine Learning tasks
 
 
 # Machine Learning business case
@@ -17,12 +33,15 @@
 # Dashboard design
 
 
-# Unfixed bugs 
+# Unfixed bugs 
 
 
-# Deployment
+# Deployment
 
-## The deployment process is done through Heroku. This site is used for this project as it is better for hosting backend files. Please follow the below steps to deploy this project:
+
+
+## The deployment process is done through Heroku. This site is used for this project as it is better for hosting backend files. Please follow the below steps to deploy this project:
+
 
 - Create a Heroku accout if you haven't done so already. 
 
@@ -37,6 +56,6 @@
 # Main data analysis and Machine Learning libraries
 
 
-# Credits 
+# Credits 
 
 - My mentor Mo Shami, for his patience and guidance through the development of this project. 
