@@ -18,9 +18,9 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
  - Hypothesis 1 - Houses with 4 bedrooms appear to reach the highest prices, with one exceeding $700,000.  
 
- - Hypothesis 2 -
+ - Hypothesis 2 - Homes with smaller unfinished basements tend to have a wider range of sale prices. Sale prices are influenced by several factors and unfinished areas would be a major issue. 
 
- - Hypothesis 3 - 
+ - Hypothesis 3 - Houses with 
 
 
 
