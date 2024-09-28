@@ -20,7 +20,7 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
  - Hypothesis 2 - Homes with smaller unfinished basements tend to have a wider range of sale prices. Sale prices are influenced by several factors and unfinished areas would be a major issue. 
 
- - Hypothesis 3 - Houses with 
+ - Hypothesis 3 - Houses with larger amounts of square footage on the first floor generally cost more than houses with smaller amounts of square footage. 
 
 
 
