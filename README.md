@@ -59,3 +59,5 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 # Credits 
 
 - My mentor Mo Shami, for his patience and guidance through the development of this project. 
+
+- My brother Sean, for his help and input. 
