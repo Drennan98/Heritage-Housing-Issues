@@ -27,7 +27,7 @@ def page1_summary():
     # text based on README file - "Dataset Content" section
     st.info(
         f"**Project Terms & Jargon**\n"
-        f"* The **sale price** refers to the numerical value (in US Dollars) that a house sells for.\n "
+        f"* The **sale price** refers to the numerical value (in US Dollars) that a house sells for.\n\n"
         f"**Project Dataset**\n"
         f"* The dataset for this project is available on [Kaggle](https://www.kaggle.com/datasets/codeinstitute/housing-prices-data)."
     )
