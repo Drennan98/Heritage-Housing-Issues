@@ -8,13 +8,13 @@ def page3_predicted_sale_price():
 
     # Load pipeline files
     version = 'v1'
-    regressor_pipeline = load_pkl_file(f"outputs/ml_pipeline/predictsale_price/regressor_pipeline.pkl")
-    house_features = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/X_train.csv")
-    sale_price_importance = plt.imread(f"outputs/ml_pipeline/predictsale_price/features_importance.png")
-    X_train = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/X_train.csv")
-    X_test = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/X_test.csv")
-    y_train = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/y_train.csv")
-    y_test = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/y_test.csv")
+    regressor_pipeline = load_pkl_file(f"outputs/ml_pipeline/predictsale_price/v1/regression_pipeline.pkl")
+    house_features = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/v1/X_train.csv")
+    sale_price_importance = plt.imread(f"outputs/ml_pipeline/predictsale_price/v1/features_importance.png")
+    X_train = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/v1/X_train.csv")
+    X_test = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/v1/X_test.csv")
+    y_train = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/v1/y_train.csv")
+    y_test = pd.read_csv(f"outputs/ml_pipeline/predictsale_price/v1/y_test.csv")
 
     # Display ML pipeline summary
     st.write("### ML Pipeline: Predict Sale Price")    
@@ -23,7 +23,7 @@ def page3_predicted_sale_price():
         f"* Delivering an ML system for predicting the sale price of the inherited houses. \n\n"
         f"* A **Regressor model** was selected for predicting the **Sale Price**, following additional data cleaning and feature engineering. "
         f"The client set a target R2 score of at least 0.75 on both train and test sets. \n\n"
-        f"* Achieved R2 score: **0.93** on the test set and **0.83** on the train set. \n\n"
+        f"* Achieved R2 score: **0.999** on the test set and **0.859** on the train set. \n\n"
     )
 
     st.write("---")
