@@ -15,9 +15,9 @@ from app_pages.page5_predict import page5_predict
 
 app.app_page("Project Summary", page1_summary)
 app.app_page("Feature Correlation", page2_feature_correlation)
-app.app_page("ML Sale Price Pipeline", page3_ml_predict)
+app.app_page("Sale Price Predictor", page3_ml_predict)
 app.app_page("Project Hypothesis and Validation", page4_hypotheses)
-app.app_page("Sale Price Predictor", page5_predict)
+app.app_page("ML Sale Price Pipeline", page5_predict)
 
 # Run the  app
 app.run()
