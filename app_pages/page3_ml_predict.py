@@ -51,7 +51,7 @@ def page3_ml_predict():
 
 def DrawInputsWidgets():
     # Load the dataset
-    df = load_inherited_house_data()
+    df = load_house_data()
     percentage_min, percentage_max = 0.4, 2.0
 
     # Define features and their respective columns
