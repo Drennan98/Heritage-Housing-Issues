@@ -17,6 +17,8 @@ def page4_hypotheses():
         f"**Hypothesis 3** - Houses with larger amount of square footage on the first floor generally cost more than houses with smaller"
         f"amounts of square footage. The scatterplot shows us in the Sale Price Study notebook shows that this hypothesis is **correct**. "
         f"When the 1st floor square foot value increases we can see that the price also increases."
+    )
 
+    st.write (
         f"**Definition of outlier:** This is a data point that is significantly different from other observations."
     )

@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from src.data_management import load_house_data, load_pkl_file
 from src.machine_learning.evaluate_regression import regression_performance, evaluate_and_display
 
-def page3_predicted_sale_price():
+def page5_predict():
 
     # Load pipeline files
     version = 'v1'
