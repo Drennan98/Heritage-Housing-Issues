@@ -56,7 +56,7 @@ Although your friend has an excellent understanding of property prices in her ow
 
 In Machine Learning, a hypothesis refers to a model or function that you assume can predict the output from the given input data. It represents your best guess about how the input features relate to the target variable. 
 
- - Hypothesis 1 - Houses with 4 bedrooms appear to reach the highest prices, with one exceeding $700,000.  
+ - Hypothesis 1 - Houses with 4 bedrooms appear to reach the highest prices, with one exceeding $700,000. 
 
  - Hypothesis 2 - Homes with smaller unfinished basements tend to have a wider range of sale prices. Sale prices are influenced by several factors and unfinished areas would be a major issue. 
 
@@ -77,8 +77,6 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 
 # Deployment
-
-
 
 ## The deployment process is done through Heroku. This site is used for this project as it is better for hosting backend files. Please follow the below steps to deploy this project:
 
