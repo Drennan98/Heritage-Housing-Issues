@@ -9,8 +9,8 @@ from datetime import date
 def page3_ml_predict():
 
     version = 'v1'
-    sale_price_pipe = load_pkl_file(f"outputs/ml_pipeline/predictsale_price/v1/regression_pipeline.pkl")
-    sale_price_features = (pd.read_csv(f"outputs/ml_pipeline/predictsale_price/v1/X_train.csv")
+    sale_price_pipeline = load_pkl_file(f"outputs/ml_pipeline/predictsale_price/v1/regression_pipeline.pkl")
+    house_features = (pd.read_csv(f"outputs/ml_pipeline/predictsale_price/v1/X_train.csv")
                                         .columns
                                         .to_list())
 
@@ -30,7 +30,7 @@ def page3_ml_predict():
 
     # Predict live data
     if st.button("Run Predictive Analysis"): 
-        predict_price(X_live, sale_price_features, sale_price_pipe)
+        predict_price(X_live, house_features, sale_price_pipeline)
 
     st.write("---")
     st.write("Here is the info for the key values of the clients inherited houses. ")

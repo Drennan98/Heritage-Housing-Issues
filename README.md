@@ -1,3 +1,9 @@
+# Heritage Housing Issues 
+
+
+This is my final project for the Full Stack Software Development diploma. In this project, I've developed a data application which is presented on Streamlit. While I'm happy to reach this part of the course, this project was extremely challenging but was very rewarding to see what I could do when it came to analysis and manipulaton of a dataset. 
+
+![Summary](media/summary.png)
 
 
 # Dataset content
