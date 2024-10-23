@@ -24,13 +24,16 @@ def page3_ml_predict():
     st.write("---")
     st.write("The data of the houses you want an estimated price for can be entered below. "
 			"If you are missing any values of the data set, they're set to median. ")
+    
+    in_df = load_inherited_house_data()
+    first_house_data = in_df.iloc[:1]
 
     # Generate Live Data
     X_live = DrawInputsWidgets()
 
     # Predict live data
     if st.button("Run Predictive Analysis"): 
-        predict_price(X_live, house_features, sale_price_pipeline)
+        predict_price(first_house_data, house_features, sale_price_pipeline)
 
     st.write("---")
     st.write("Here is the info for the key values of the clients inherited houses. ")
@@ -82,3 +85,4 @@ def DrawInputsWidgets():
             X_live[feature] = st_widget
 
     return X_live
+

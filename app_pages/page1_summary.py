@@ -48,4 +48,3 @@ def page1_summary():
         f"inherited houses, and any other house in Ames, Iowa. "
         )
 
-        
