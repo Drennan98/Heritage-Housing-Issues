@@ -85,4 +85,3 @@ def DrawInputsWidgets():
             X_live[feature] = st_widget
 
     return X_live
-
