@@ -26,7 +26,7 @@ def page3_ml_predict():
 			"If you are missing any values of the data set, they're set to median. ")
     
     in_df = load_inherited_house_data()
-    first_house_data = in_df.iloc[:1]
+    first_house_data = in_df.iloc[:4]
 
     # Generate Live Data
     X_live = DrawInputsWidgets()
