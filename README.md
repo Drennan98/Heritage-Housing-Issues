@@ -51,6 +51,69 @@ Although your friend has an excellent understanding of property prices in her ow
 2 - The client is interested in predicting the house sale price from her four inherited houses and any other house in Ames, Iowa.
 
 
+# User Stories
+
+
+## User Story 1 - Create Dashboard
+
+
+- As a user I want to be able to access an easy-to-use dashboard that showcases graphs and other relevant information. The dashboard is divided up into
+5 different pages, Project Summary, Feature Correlation, Sale Price Predictor, Project Hypotheses and Validation and ML Sale Price Pipeline. You can find a detailed outline of the 5 pages below aswell as some screenshots. 
+
+
+## User Story 2 - Dataset Access
+
+
+-
+
+
+## User Story 3 - Data Cleaning
+
+
+-
+
+
+## User Story 4 - Automated Data Loading
+
+
+-
+
+
+## User Story 5 - Data Visualization 
+
+
+-
+
+
+## User Story 6 - CRISP-DM
+
+
+-
+
+
+## User Story 7 - Validate Hypothesis
+
+
+-
+
+
+## User Story 8 - Feature Engineering
+
+
+-
+
+
+## User Story 9 - Business Requirements
+
+
+-
+
+
+## User Story 10 - Deployment
+
+
+- 
+
 
 # Hypothesis and how to validate
 
