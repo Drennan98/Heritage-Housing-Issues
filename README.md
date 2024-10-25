@@ -6,6 +6,8 @@ This is my final project for the Full Stack Software Development diploma. In thi
 
 ![Summary](media/summary.png)
 
+You can find the deployed site [here](https://heritage-housing-issues0000-27ab8e289bb3.herokuapp.com/)
+
 
 # Dataset content
 
@@ -57,14 +59,15 @@ Although your friend has an excellent understanding of property prices in her ow
 ## User Story 1 - Create Dashboard
 
 
-- As a user I want to be able to access an easy-to-use dashboard that showcases graphs and other relevant information. The dashboard is divided up into
+- As a User I want to be able to access an easy-to-use dashboard that showcases graphs and other relevant information. The dashboard is divided up into
 5 different pages, Project Summary, Feature Correlation, Sale Price Predictor, Project Hypotheses and Validation and ML Sale Price Pipeline. You can find a detailed outline of the 5 pages below aswell as some screenshots. 
 
 
 ## User Story 2 - Dataset Access
 
 
--
+- As a Software Developer, I want to have access to a dataset which will allow me to create this project and carry out the necessary tasks to manipulate and
+visualize data. The dataset was sourced from Kaggle. 
 
 
 ## User Story 3 - Data Cleaning
