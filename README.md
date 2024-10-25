@@ -50,7 +50,7 @@ Although your friend has an excellent understanding of property prices in her ow
 
 1 - The client is interested in discovering how the house attributes correlate with the sale price. Therefore, the client expects data visualisations of the correlated variables against the sale price to show that.
 
-2 - The client is interested in predicting the house sale price from her four inherited houses and any other house in Ames, Iowa.
+2 - The client is interested in predicting the house sale price from her four inherited houses. 
 
 
 # User Stories
@@ -96,22 +96,24 @@ off of for our project.
 - As a Software Developer, I will use the CRISP-DM methodology as this will guide me through every stage of the project from business understanding to deployment. 
 
 
+
 ## User Story 7 - Validate Hypothesis
 
 
--
+- As a User, I want to know the project hypotheses and how they were validated. 
 
 
 ## User Story 8 - Feature Engineering
 
 
--
+- As a Software Developer, I want to Feature Engineer the data as it turns raw data into a form that makes it easier for machine learning models to 
+interpret patterns, relationships and trends. 
 
 
 ## User Story 9 - Business Requirements
 
 
--
+- 
 
 
 ##  User Story 10 - Deployment
