@@ -6,7 +6,7 @@ This is my final project for the Full Stack Software Development diploma. In thi
 
 ![Summary](media/summary.png)
 
-You can find the deployed site [here](https://heritage-housing-issues0000-27ab8e289bb3.herokuapp.com/)
+You can find the deployed site [here](https://heritage-housing-issues0000-27ab8e289bb3.herokuapp.com/).
 
 
 # Dataset content
