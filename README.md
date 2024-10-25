@@ -90,10 +90,10 @@ off of for our project.
 
 
 
-## User Story 6 - CR
+## User Story 6 - Cross Industry Standard Process for Data Mining (CRISP-DM)
 
 
--
+- As a Software Developer, I will use the CRISP-DM methodology as this will guide me through every stage of the project from business understanding to deployment. 
 
 
 ## User Story 7 - Validate Hypothesis
