@@ -73,28 +73,30 @@ visualize data. The dataset was sourced from Kaggle.
 ## User Story 3 - Data Cleaning
 
 
--
+- As a Software Devloper, I must clean the data in order handle missing values and remove errors and inconsistencies. This is so we have a clean dataset to work
+off of for our project.
 
 
 ## User Story 4 - Automated Data Loading
 
 
+- 
+
+
+## User Story 5 - Data Visualization 
+
+
+- As a User, I want to graphs and correlation represented in graphs, scatterplots etc. This would make it easier to understand and make it more visually appealling to the client. 
+
+
+
+## User Story 6 - CR
+
+
 -
 
 
-## User Story 5 - Data Visualization 
-
-
--
-
-
-## User Story 6 - CRISP-DM
-
-
--
-
-
-## User Story 7 - Validate Hypothesis
+## User Story 7 - Validate Hypothesis
 
 
 -
@@ -106,13 +108,13 @@ visualize data. The dataset was sourced from Kaggle.
 -
 
 
-## User Story 9 - Business Requirements
+## User Story 9 - Business Requirements
 
 
 -
 
 
-## User Story 10 - Deployment
+##  User Story 10 - Deployment
 
 
 - 
