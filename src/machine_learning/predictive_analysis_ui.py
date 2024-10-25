@@ -1,5 +1,7 @@
 import streamlit as st
 
+# Code inspired by the Churnometer walkthrough project.
+
 def predict_price(X_live, house_features, sale_price_pipeline):
 
 	# from live data, subset features related to this pipeline
@@ -12,10 +14,5 @@ def predict_price(X_live, house_features, sale_price_pipeline):
 	proba = sale_price_prediction_proba
 	value = float(proba[0].round(1))
 	amount = '${:,.2f}'.format(value)
-	statement = (
-		f'### With the values given, we estimate this house to be worth {amount} '
-	)
-
-	st.write(statement)
 		
 	st.write(proba)

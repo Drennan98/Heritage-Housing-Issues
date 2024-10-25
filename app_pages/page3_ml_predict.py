@@ -43,14 +43,6 @@ def page3_ml_predict():
 		
     st.write(filtered_df)
 
-    st.write("After running them through the prediction app, their estimated prices are the following. \n\n "
-			"* $126,449 \n"
-			"* $150,322 \n"
-			"* $170,148 \n"
-			"* $181,897 ")
-	
-    st.write("---")
-
 
 def DrawInputsWidgets():
     # Load the dataset
