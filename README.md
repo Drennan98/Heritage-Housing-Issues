@@ -206,7 +206,29 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 - Deploy the project. Keep an eye on the build log if the deployment fails, this will suggest any changes that need to be made in order to deploy successfully.
 
+
 # Main data analysis and Machine Learning libraries
+
+
+- **Streamlit:** This is what we used to create the dashboard. Building apps using Streamlit is effortless. It's particularly useful for data applications and machine learning models. It's also handy for people with minimal front-end experience. 
+
+- **NumPy:**
+
+- **Pandas:**
+
+- **Matplotlib:**
+
+- **Scikit-learn:**
+
+- **Seaborn:**
+
+- **Git:**
+
+- **Feature-engine:**
+
+- **Kaggle:**
+
+- **Python:**
 
 
 # Credits 
