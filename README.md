@@ -212,13 +212,13 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 - **Streamlit:** This is what we used to create the dashboard. Building apps using Streamlit is effortless. It's particularly useful for data applications and machine learning models. It's also handy for people with minimal front-end experience. 
 
-- **NumPy:**
+- **NumPy:** This is what we used to process arrays and the store the values. This is a powerful library for numerical computing in Python. 
 
-- **Pandas:**
+- **Pandas:** We used this for data manipulation and analysis. It provides two main structures, Series and DataFrames. DataFrames are something we used a lot in this project. 
 
-- **Matplotlib:**
+- **Matplotlib:** This was used for generating graphs for data visualization. 
 
-- **Scikit-learn:**
+- **Scikit-learn:** This was used for pipeline creation and the application of algorithms throughout my project. It also provides tools for predictive modelling and model evaluation. 
 
 - **Seaborn:**
 
