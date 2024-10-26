@@ -190,7 +190,7 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 # Unfixed Bugs 
 
-- They're no unfixed bugs. 
+- I never got my widgets working properly. But when you **"Run Predictive Analysis"** you still get predicted prices of the 4 inherited houses. 
 
 
 # Deployment
