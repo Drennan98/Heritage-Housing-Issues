@@ -63,11 +63,13 @@ Although your friend has an excellent understanding of property prices in her ow
 5 different pages, Project Summary, Feature Correlation, Sale Price Predictor, Project Hypotheses and Validation and ML Sale Price Pipeline. You can find a detailed outline of the 5 pages below aswell as some screenshots. 
 
 
+
 ## User Story 2 - Dataset Access (BR1)
 
 
 - As a Software Developer, I want to have access to a dataset which will allow me to create this project and carry out the necessary tasks to manipulate and
 visualize data. The dataset was sourced from Kaggle. 
+
 
 
 ## User Story 3 - Data Cleaning (BR1)
@@ -77,11 +79,13 @@ visualize data. The dataset was sourced from Kaggle.
 off of for our project.
 
 
+
 ## User Story 4 - Automated Data Loading (BR1)
 
 
 - As a Software Developer, I will use automated data loading I will import data files (CSV) into my Jupyter Notebooks. This is particularly useful when you need
 to repeatedly load data or have various datasets. 
+
 
 
 ## User Story 5 - Data Visualization (BR1)
@@ -104,6 +108,7 @@ to repeatedly load data or have various datasets.
 - As a User, I want to know the project hypotheses and how they were validated. 
 
 
+
 ## User Story 8 - Feature Engineering (BR1, BR2)
 
 
@@ -111,10 +116,12 @@ to repeatedly load data or have various datasets.
 interpret patterns, relationships and trends. 
 
 
+
 ## User Story 9 - Business Requirements (BR1, BR2)
 
 
 - As a Client, I want to ensure that the Business Requirements set out are met and that the features implemented to meet these Business Requirements work correctly. 
+
 
 
 ## User Story 10 - Deployment (BR1, BR2)
