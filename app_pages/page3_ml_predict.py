@@ -10,9 +10,9 @@ def page3_ml_predict():
 
     version = 'v1'
     sale_price_pipeline = load_pkl_file(f"outputs/ml_pipeline/predictsale_price/v1/regression_pipeline.pkl")
-    #house_features = (pd.read_csv(f"outputs/ml_pipeline/predictsale_price/v1/X_train.csv")
-    #                                    .columns
-    #                                    .to_list())
+    house_features = (pd.read_csv(f"outputs/ml_pipeline/predictsale_price/v1/X_train.csv")
+                                        .columns
+                                        .to_list())
 
     st.write("### Predict House Sale Price")
 

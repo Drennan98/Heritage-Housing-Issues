@@ -156,7 +156,19 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 - We will use the visual representations of the data (graphs) to validate hypotheses and also anwser our business requirements. 
 
-- For more information, please visit the "Sale Price Study" workbook. 
+- For more information, please visit the "Sale Price Study" workbook.
+
+
+## Business Requirement 2: Regression Pipeline
+
+
+- We want to be able to predict the sale price of the 4 inherited houses for our client. 
+
+- We built a regression model to help predict the sale price. We also trained this model. 
+
+- We also want to find out R2 score and Mean Absolute Error. (See screenshots)
+
+![R2 and Mean Abosolute Error](media/r2.png)
 
 
 # Machine Learning Business Case
