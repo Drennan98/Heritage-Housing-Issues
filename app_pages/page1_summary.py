@@ -29,9 +29,9 @@ def page1_summary():
         f"**Project Terms & Jargon**\n"
         f"* The **sale price** refers to the numerical value (in US Dollars) that a house sells for.\n\n"
         f"**Project Dataset**\n"
-        f"* The dataset for this project is available on [Kaggle](https://www.kaggle.com/datasets/codeinstitute/housing-prices-data)."
-        f"I would like to confirm that the app was successful in predicting the sale price of the 4 inherited houses. Please run Predictive Analysis"
-        f"on page 3 to see this."
+        f"* The dataset for this project is available on [Kaggle](https://www.kaggle.com/datasets/codeinstitute/housing-prices-data).\n\n"
+        f"* I would like to confirm that the app was **successful** in predicting the sale price of the 4 inherited houses. Please run Predictive Analysis"
+        f" on page 3 to see this."
     )
 
     # Link to README file, so the users can have access to full project documentation
@@ -47,6 +47,6 @@ def page1_summary():
         f"the house Sale Price. Therefore, the client expects data visualizations "
         f"of the correlated variables against Sale Price to show that.\n\n"
         f"**2.** The client is interested to predict the house sales price from their 4 "
-        f"inherited houses, and any other house in Ames, Iowa. "
+        f"inherited houses. "
         )
 

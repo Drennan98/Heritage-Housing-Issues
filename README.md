@@ -174,7 +174,13 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 # Machine Learning Business Case
 
 
-- **Problem Statement:** 
+- We need to implement an ML model to predict the sale price of a house. For this particular project, we went with a Regression Model. A Regression Model can be defined as a model which describes the relationship between one or more independent variables and a target variable. The target variable in this case is the SalePrice. 
+
+- We want to provide the client with an app that with will predict the sale price of 4 inherited houses for her. Which will give her a better chance to secure maxium profit. 
+
+- The model success metrics are as follows: **At least 0.75 R2 score on train and test set** and the model would be considered **a failure if after 12 months has elapsed, that the model would stop predicting the sale price accurately**. 
+
+- As mentioned above, the target variable is **sale price**. 
 
 
 # Dashboard Design
