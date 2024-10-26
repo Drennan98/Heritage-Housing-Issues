@@ -30,6 +30,8 @@ def page1_summary():
         f"* The **sale price** refers to the numerical value (in US Dollars) that a house sells for.\n\n"
         f"**Project Dataset**\n"
         f"* The dataset for this project is available on [Kaggle](https://www.kaggle.com/datasets/codeinstitute/housing-prices-data)."
+        f"I would like to confirm that the app was successful in predicting the sale price of the 4 inherited houses. Please run Predictive Analysis"
+        f"on page 3 to see this."
     )
 
     # Link to README file, so the users can have access to full project documentation
