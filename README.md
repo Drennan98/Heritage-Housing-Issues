@@ -187,6 +187,10 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 - The dashboard contains a very simple layout. It contains 5 pages, **Project Summary, Feature Correlation, Sale Price Predictor, Project Hypothesis and Validation and ML Sale Price Pipeline**. 
 
+![Dashboard Page 1](media/page1.png)
+
+- **Page 1 - Project Summary:** This page shows a where the data is sourced from, a link to the READme and the Business Requirements. 
+
 
 # Unfixed Bugs 
 
