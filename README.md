@@ -220,11 +220,11 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 - **Scikit-learn:** This was used for pipeline creation and the application of algorithms throughout my project. It also provides tools for predictive modelling and model evaluation. 
 
-- **Seaborn:**
+- **Seaborn:** This was particularly useful for the visualization of data on Streamlit. It implements attractive and styled visuals. 
 
-- **Git:**
+- **Git:** This was used for version control. You can write a commit message using the following commands: -> **"git add ." -> "git commit -m message" -> "git push".
 
-- **Feature-engine:**
+- **Feature-engine:** 
 
 - **Kaggle:**
 
