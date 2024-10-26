@@ -42,7 +42,7 @@ You can find the deployed site [here](https://heritage-housing-issues0000-27ab8e
 | YearRemodAdd  | Remodel date (same as construction date if no remodeling or additions) | 1950 - 2010                                                                                                                                      |
 | SalePrice     | Sale Price                                                             | 34900 - 755000                                                                                                                                   |
 
-# Business requirements
+# Business Requirements (BR)
 
 As a good friend, you are requested by your friend, who has received an inheritance from a deceased great-grandfather located in Ames, Iowa, to help in maximising the sales price for the inherited properties.
 
@@ -80,7 +80,8 @@ off of for our project.
 ## User Story 4 - Automated Data Loading
 
 
-- 
+- As a Software Developer, I will use automated data loading I will import data files (CSV) into my Jupyter Notebooks. This is particularly useful when you need
+to repeatedly load data or have various datasets. 
 
 
 ## User Story 5 - Data Visualization 
@@ -110,16 +111,16 @@ off of for our project.
 interpret patterns, relationships and trends. 
 
 
-## User Story 9 - Business Requirements
+## User Story 9 - Business Requirements (BR1, BR2)
 
 
-- 
+- As a Client, I want to ensure that the Business Requirements set out are met and that the features implemented to meet these Business Requirements work correctly. 
 
 
 ##  User Story 10 - Deployment
 
 
-- 
+- As a Software Developer, I must deploy the site to Heroku and make sure it deploys without any errors. 
 
 
 # Hypothesis and how to validate
@@ -138,13 +139,13 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 # Rationale to map the business requirements to the data visualizations and Machine Learning tasks
 
 
-# Machine Learning business case
+# Machine Learning Business Case
 
 
-# Dashboard design
+# Dashboard Design
 
 
-# Unfixed bugs 
+# Unfixed Bugs 
 
 
 # Deployment
