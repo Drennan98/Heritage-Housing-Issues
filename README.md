@@ -147,6 +147,18 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 # Rationale to map the business requirements to the data visualizations and Machine Learning tasks
 
 
+## Business Requirement 1: Data Visualization and Correlation Study
+
+
+- We will load, inspect, clean, feature engineer and evaluate the data related to the houses in question. 
+
+- We will conduct a correlation study to better understand how each variable correlates and impacts on the Sale Price of a house. 
+
+- We will use the visual representations of the data (graphs) to validate hypotheses and also anwser our business requirements. 
+
+- For more information, please visit the "Sale Price Study" workbook. 
+
+
 # Machine Learning Business Case
 
 
