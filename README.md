@@ -190,6 +190,8 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 # Unfixed Bugs 
 
+- They're no unfixed bugs. 
+
 
 # Deployment
 
@@ -222,13 +224,13 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 - **Seaborn:** This was particularly useful for the visualization of data on Streamlit. It implements attractive and styled visuals. 
 
-- **Git:** This was used for version control. You can write a commit message using the following commands: -> **"git add ." -> "git commit -m message" -> "git push".
+- **Git:** This was used for version control. You can write a commit message using the following commands: -> **"git add ." -> "git commit -m message" -> "git push". It's good practice to keep commit messages under 50 characters. 
 
-- **Feature-engine:** 
+- **Feature-engine:** This library is essential for the Feature Engineering notebook. It also offers transformer classes. 
 
-- **Kaggle:**
+- **Kaggle:** This is where the dataset we used for Heritage Housing Issues was used. The link can be found above and was granted to us by Code Institute. 
 
-- **Python:**
+- **Python:** The main programming language used for this project. 
 
 
 # Credits 
