@@ -56,42 +56,42 @@ Although your friend has an excellent understanding of property prices in her ow
 # User Stories
 
 
-## User Story 1 - Create Dashboard
+## User Story 1 - Create Dashboard (BR1)
 
 
 - As a User I want to be able to access an easy-to-use dashboard that showcases graphs and other relevant information. The dashboard is divided up into
 5 different pages, Project Summary, Feature Correlation, Sale Price Predictor, Project Hypotheses and Validation and ML Sale Price Pipeline. You can find a detailed outline of the 5 pages below aswell as some screenshots. 
 
 
-## User Story 2 - Dataset Access
+## User Story 2 - Dataset Access (BR1)
 
 
 - As a Software Developer, I want to have access to a dataset which will allow me to create this project and carry out the necessary tasks to manipulate and
 visualize data. The dataset was sourced from Kaggle. 
 
 
-## User Story 3 - Data Cleaning
+## User Story 3 - Data Cleaning (BR1)
 
 
 - As a Software Devloper, I must clean the data in order handle missing values and remove errors and inconsistencies. This is so we have a clean dataset to work
 off of for our project.
 
 
-## User Story 4 - Automated Data Loading
+## User Story 4 - Automated Data Loading (BR1)
 
 
 - As a Software Developer, I will use automated data loading I will import data files (CSV) into my Jupyter Notebooks. This is particularly useful when you need
 to repeatedly load data or have various datasets. 
 
 
-## User Story 5 - Data Visualization 
+## User Story 5 - Data Visualization (BR1)
 
 
 - As a User, I want to graphs and correlation represented in graphs, scatterplots etc. This would make it easier to understand and make it more visually appealling to the client. 
 
 
 
-## User Story 6 - Cross Industry Standard Process for Data Mining (CRISP-DM)
+## User Story 6 - Cross Industry Standard Process for Data Mining (CRISP-DM) (BR1, BR2)
 
 
 - As a Software Developer, I will use the CRISP-DM methodology as this will guide me through every stage of the project from business understanding to deployment. 
@@ -104,7 +104,7 @@ to repeatedly load data or have various datasets.
 - As a User, I want to know the project hypotheses and how they were validated. 
 
 
-## User Story 8 - Feature Engineering
+## User Story 8 - Feature Engineering (BR1, BR2)
 
 
 - As a Software Developer, I want to Feature Engineer the data as it turns raw data into a form that makes it easier for machine learning models to 
@@ -117,10 +117,11 @@ interpret patterns, relationships and trends.
 - As a Client, I want to ensure that the Business Requirements set out are met and that the features implemented to meet these Business Requirements work correctly. 
 
 
-##  User Story 10 - Deployment
+## User Story 10 - Deployment (BR1, BR2)
 
 
 - As a Software Developer, I must deploy the site to Heroku and make sure it deploys without any errors. 
+
 
 
 # Hypothesis and how to validate
