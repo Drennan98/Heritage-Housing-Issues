@@ -191,10 +191,18 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 - **Page 1 - Project Summary:** This page shows a where the data is sourced from, a link to the READme and the Business Requirements. 
 
+![Dashboard Page 2](media/page2.png)
+
+- **Page 2 - Feature Correlation:** This page shows feature correlation. Please click the checkboxes to see the graphs. 
+
 
 # Unfixed Bugs 
 
 - I never got my widgets working properly. But when you **"Run Predictive Analysis"** you still get predicted prices of the 4 inherited houses. 
+
+![Terminal Warning](media/terminalwarning.png)
+
+- Please see the above terminal warning when I press the checkboxes to display my graphs on the Feature Correlation page. All graphs display perfectly. 
 
 
 # Deployment
