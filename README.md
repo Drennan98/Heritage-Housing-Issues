@@ -257,8 +257,18 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 - **Python:** The main programming language used for this project. 
 
 
-# Credits 
+# Credits / References
 
 - My mentor Mo Shami, for his patience and guidance through the development of this project. 
 
 - My brother Sean, for his help and input. 
+
+- The Churnometer walkthrough was very helpful with this project. 
+
+- The template for the project is provided by Code Institute. 
+
+- The Code Institute LMS contained all the lessons which helped me become familiar with the concepts around this project. 
+
+- The dataset was accessed on Kaggle through Code Institute. 
+
+- Roman and John of Code Institute who were very helpful and patient with my queries on the Slack channel.
