@@ -208,6 +208,8 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 - **Page 5 - ML Sale Price Pipeline:** You can view the pipeline, feature importance and R2 score here. 
 
 
+
+
 # Unfixed Bugs 
 
 - I never got my widgets working properly. But when you **"Run Predictive Analysis"** you still get predicted prices of the 4 inherited houses. 
