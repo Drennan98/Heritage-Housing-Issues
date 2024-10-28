@@ -20,7 +20,7 @@ def page3_ml_predict():
     st.info(
         f"#### Business Requirement 2\n"
         f"* The client is interested to predict the house sale price for "
-        f"her 4 inherited houses, and any other house in Ames, Iowa. ")
+        f"her 4 inherited houses.")
     st.write("---")
     st.write("The data of the houses you want an estimated price for can be entered below. "
 			"If you are missing any values of the data set, they're set to median. ")
