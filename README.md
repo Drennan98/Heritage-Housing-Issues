@@ -208,7 +208,21 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 - **Page 5 - ML Sale Price Pipeline:** You can view the pipeline, feature importance and R2 score here. 
 
 
+- See below for textual interpration of the graphs on the dashboard: 
 
+![Graph 1](media/graph1.png) 
+
+- This graph shows the the distribution of Sale Price, with sale price on the x-axis and number of houses on the y-axis.
+
+![Graph 2](media/graph2.png)
+
+- This set of graphs shows how the target variable (sale price) correlates with all the other variables. 
+
+![Graph 3](media/graph3.png)
+![Graph 4](media/graph4.png)
+![Graph 5](media/graph5.png)
+
+- This set of graphs shows Pearson, Spearman and Predictive Power Score (PPS) and depicts how the variables collaborate with eachother. 
 
 # Unfixed Bugs 
 
