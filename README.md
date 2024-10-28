@@ -193,7 +193,19 @@ In Machine Learning, a hypothesis refers to a model or function that you assume 
 
 ![Dashboard Page 2](media/page2.png)
 
-- **Page 2 - Feature Correlation:** This page shows feature correlation. Please click the checkboxes to see the graphs. 
+- **Page 2 - Feature Correlation:** This page shows feature correlation and key observations. Please click the checkboxes to see the graphs.
+
+![Dashboard Page 3](media/page3.png)
+
+- **Page 3 - Sale Price Predictor:** This is the page where you can run your predictive analysis and predict the price of the 4 inherited houses.
+
+![Dashboard Page 4](media/page4.png) 
+
+- **Page 4 - Project Hypothesis and Validation:** You can view my project hypothesis' and validation here. 
+
+![Dashboard Page 5](media/page5.png)
+
+- **Page 5 - ML Sale Price Pipeline:** You can view the pipeline, feature importance and R2 score here. 
 
 
 # Unfixed Bugs 
