@@ -134,7 +134,7 @@ interpret patterns, relationships and trends.
 # Hypothesis and how to validate
 
 
-In Machine Learning, a hypothesis refers to a model or function that you assume can predict the output from the given input data. It represents your best guess about how the input features relate to the target variable. 
+In Machine Learning, a hypothesis refers to a model or function that you assume can predict the output from the given input data. It represents your best guess about how the input features relate to the target variable. **Please see the Hypotheses and Validation page of the dashboard.**
 
  - Hypothesis 1 - Houses with 4 bedrooms appear to reach the highest prices, with one exceeding $700,000. 
 

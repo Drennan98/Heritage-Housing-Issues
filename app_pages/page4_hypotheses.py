@@ -6,7 +6,7 @@ def page4_hypotheses():
 
     st.success(
         f"**Hypothesis 1** - Houses with 4 bedrooms appear to reach the highest prices, with one exceeding $700,000\n\n"
-        f"In my Sale Price Study notebook, I hypothesised that houses with 4 bedrooms appears to reach the highest prices,"
+        f"In my Sale Price Study notebook, I hypothesised that houses with 4 bedrooms appears to reach the highest prices, "
         f"we can see the scatterplot shows this as we have two blue dots above the $700,000 mark. So this hypothesis is **correct**.\n\n"
         f"**Hypothesis 2** - Homes with smaller unfinished basements tend to have a wider range of sale prices. Sale prices"
         f"are influenced by several factors and unfinished areas would be a major issue. "
